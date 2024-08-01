@@ -1,0 +1,13 @@
+{
+    "dadosIncorretos": [
+      {
+        "cepOrigem": "08090-284",
+        "formato": "Caixa / Pacote",
+        "peso": "Até 300g",
+        "altura": "0,3",
+        "largura": "7",
+        "comprimento": "12",
+        "cepDestino": "05407-002"
+      }
+    ]
+}

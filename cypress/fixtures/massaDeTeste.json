@@ -1,0 +1,13 @@
+{
+    "massaDeTeste": [
+      {
+        "cepOrigem": "08090-284",
+        "formato": "Caixa / Pacote",
+        "peso": "Até 300g",
+        "altura": "2",
+        "largura": "11",
+        "comprimento": "16",
+        "cepDestino": "05407-002"
+      }
+    ]
+}
